@@ -2,7 +2,7 @@
     <section xml:id= "sec-criss-cross-game">
       <title>The Criss-Cross Game</title>
 <introduction>
-<p>Below we will describe a mathematically-curious game. The original activity can be found at <url>https://mathcircles.org/activity/game-of-criss-cross/</url> and was authored by Sam Vandervelde.
+<p>Below we will describe a mathematically-curious game. The original activity can be found at <url href="https://mathcircles.org/activity/game-of-criss-cross/"  visual="mathcircles.org"> Math Circles Activity Site</url> and was authored by Sam Vandervelde.
 <ul>
 <title>Objectives</title>
 <li><p>Be the last player to add a line segment to the board. (This player is the winner.)</p></li>
