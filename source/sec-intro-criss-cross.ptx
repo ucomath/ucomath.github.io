@@ -14,9 +14,10 @@
         <subsection xml:id="subsec-criss-cross-rules"> 
          <title>Rules</title>
 <p>
-To play, two players will alternate turns until one of the players is unable to make a move. To begin, decide who will play first then create a
+To play, two players will alternate turns until one of the players is unable to make a move. <em>Note: You can play this by yourself. This can be done by writing in two different colors. Designate one color as player one and the other as player two. </em>
+To begin, decide who will play first then create a
 game board by drawing <m>x</m> number of dots. On each turn, draw a segment between
-any pair of dots which does not intersect any of the existing segments.  This is illustrated in <xref ref="criss-cross-moves"/> 
+any pair of dots which does not intersect any of the existing segments.  This is illustrated in <xref ref="fig-criss-cross-moves"/> 
 </p>
 <figure xml:id="fig-criss-cross-moves">
 <sidebyside widths="25% 35%" margins="0% 0%"
@@ -31,7 +32,7 @@ any pair of dots which does not intersect any of the existing segments.  This is
 </figure>
 
 <p>
-The winner is the last person able to make a legal move.  A completed game is shows in <xref ref = "fig-criss-gross-game"/>.
+The winner is the last person able to make a legal move.  A completed game is shows in <xref ref = "fig-criss-cross-game"/>.
 </p>
 
 <figure xml:id="fig-criss-cross-game">
@@ -40,8 +41,7 @@ The winner is the last person able to make a legal move.  A completed game is sh
     </image>
 </figure>
 
-<p>Note: You can play this by yourself. This can be done by writing in two different colors. Designate one color as player one and the other as player two.
-</p>
+
 
 
 <p>
@@ -54,8 +54,8 @@ Make a copy of the <xref ref = "criss-cross-table"/> score table based on the nu
 </p>
 
 <table xml:id="criss-cross-table">
-<tabular top="medium">
-    <row>
+<tabular>
+    <row bottom = "medium">
       <cell><m>V</m></cell>
       <cell><m>E</m></cell>
       <cell><m>F</m></cell>
