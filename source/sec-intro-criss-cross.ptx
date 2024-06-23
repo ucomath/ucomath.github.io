@@ -17,10 +17,8 @@
 Two players alternate turns until one of the players is unable to make a move. To begin, create a
 game board by drawing x number of dots. Decide who will play first. On each turn, draw a segment between
 any pair of dots which does not intersect any of the existing segments. The winner is the last person able
-to make a legal move. Note: You can play this by yourself. This can be done by using two different writing
-utensils. Designate one utensil as player one and the other as player two.
+to make a legal move.
 </p>
-
 
 <figure xml:id="fig-criss-cross">
 <sidebyside widths="25% 35%" margins="0% 0%"
@@ -37,6 +35,9 @@ utensils. Designate one utensil as player one and the other as player two.
     </image>
 </figure>
 
+<p>Note: You can play this by yourself. This can be done by writing in two different colors. Designate one color as player one and the other as player two.
+</p>
+
 
 <p>
 Make a copy of the <xref ref = "criss-cross-table"/> score table based on the number of dots used. The first row has been filled in. These values can be seen based on the completed game illustrated in <xref ref = "fig-criss-cross"/>. However, in order to complete the rest of the table, you will need the following definitions:
@@ -48,7 +49,7 @@ Make a copy of the <xref ref = "criss-cross-table"/> score table based on the nu
 </p>
 
 <table xml:id="criss-cross-table">
-<tabular>
+<tabular top="medium">
     <row>
       <cell><m>V</m></cell>
       <cell><m>E</m></cell>
