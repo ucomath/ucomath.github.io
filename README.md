@@ -4,7 +4,8 @@ Open-source textbook project for the Department of Mathematics and Statistics at
 
 Follow links appropriate for your course:
 * MATH 1113 - Mathematics for General Education
-  - Math in Society, by David Lippman (not all sections) at <http://www.opentextbookstore.com/mathinsociety/2.5/MathinSociety.pdf> 
+  - Math in Society, by David Lippman (not all sections, pdf) at <http://www.opentextbookstore.com/mathinsociety/2.5/MathinSociety.pdf>
+  - Math in Society, by David Lippman (not all sections, html) at <https://math.libretexts.org/Bookshelves/Applied_Mathematics/Math_in_Society_(Lippman)>
 
 * MATH 1453 - Applied Algebra
   - Modeling, Functions, and Graphs, by K. Yoshiwara (UCO edition) online at <https://ucomath.github.io/mfg>
